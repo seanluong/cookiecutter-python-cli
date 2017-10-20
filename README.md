@@ -10,6 +10,7 @@ a Python command-line interface (CLI) application.
 - [pytest](https://github.com/pytest-dev/pytest/) to run tests
 - [click](https://github.com/pallets/click) to facilitate building a CLI application
 (parsing and handling commands, arguments, options, etc.)
+- `yml` file for [Travis](http://travis-ci.org/) CI
 
 # Usage
 
