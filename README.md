@@ -1,5 +1,7 @@
 # Python CLI Application Template
 
+[![Build Status](https://travis-ci.org/xuanluong/cookiecutter-python-cli.svg?branch=master)](https://travis-ci.org/xuanluong/cookiecutter-python-cli)
+
 This is a [cookiecutter](https://github.com/audreyr/cookiecutter) template for generating
 a Python command-line interface (CLI) application.
 
