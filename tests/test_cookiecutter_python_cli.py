@@ -4,7 +4,7 @@ from os.path import dirname, abspath
 import pytest
 
 
-def test_generate_code_passes_tests(tmpdir):
+def test_project_tests_passed(tmpdir):
     template = dirname(dirname(abspath(__file__)))
     extra_context = {
         'project_name': 'mycli'
