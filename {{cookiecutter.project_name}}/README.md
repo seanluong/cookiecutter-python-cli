@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 
 Run the application:
 ```
-$ python -m {{cookiecutter.project_name}} --help
+$ python -m {{cookiecutter.project_slug}} --help
 ```
 
 To run the tests:
