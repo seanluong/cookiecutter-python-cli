@@ -1,4 +1,5 @@
 {
   "project_name": "",
-  "command_name": "{{cookiecutter.project_name}}"
+  "command_name": "{{cookiecutter.project_name}}",
+  "description": "This is {{cookiecutter.project_name}}, a Python CLI application generated from https://github.com/xuanluong/cookiecutter-python-cli"
 }
