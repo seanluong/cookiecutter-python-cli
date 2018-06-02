@@ -1,4 +1,4 @@
-# Run pip install --requirement=requirements.txt to install al requirements
+# Run pip install --requirement=requirements.txt to install all requirements
 
 click==6.7
 py==1.4.34
