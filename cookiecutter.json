@@ -4,5 +4,5 @@
   "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_')}}",
   "command_name": "{{cookiecutter.project_slug}}",
   "description": "{{cookiecutter.project_name}} is a Python CLI application generated from https://github.com/xuanluong/cookiecutter-python-cli",
-  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "CC0", "Not open source"]
 }
