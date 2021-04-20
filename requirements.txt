@@ -10,7 +10,7 @@ Jinja2==2.11.3
 jinja2-time==0.2.0
 MarkupSafe==1.0
 poyo==0.4.1
-py==1.4.34
+py==1.10.0
 pytest==3.2.3
 python-dateutil==2.6.1
 requests==2.20.0
