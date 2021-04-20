@@ -1,5 +1,5 @@
 # Run pip install --requirement=requirements.txt to install all requirements
 
 click==6.7
-py==1.4.34
+py==1.10.0
 pytest==3.2.3
